@@ -10,12 +10,12 @@ Welcome to my August 2023 internship repository with InternSavy! Here, I'm excit
 ## Tasks
 
 ### Contact Form
-I will be creating a responsive and user-friendly contact form as part of my internship tasks. This form will allow seamless communication and interaction with visitors.
+I have created a responsive and user-friendly contact form for my internship tasks. This form will allow seamless communication and interaction with visitors.
 
 ### Personal Portfolio Site
 Another exciting task on my list is designing and developing my personal portfolio website. Through this project, I aim to exhibit my skills and achievements, providing a glimpse into my journey and capabilities.
 
-Stay tuned for updates as I continue to refine my skills and bring these tasks to life. Your support and feedback are greatly appreciated!
+I'd like you to please stay tuned for updates as I continue to refine my skills and bring these tasks to life. Your support and feedback are greatly appreciated!
 
 Let's connect:
 - LinkedIn: https://www.linkedin.com/in/kushagra-jain-881b99227/
